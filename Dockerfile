@@ -9,7 +9,10 @@ RUN zypper -n install --no-recommends texlive-scheme-basic \
     texlive-microtype \
     texlive-titling \
     texlive-lastpage \
-    texlive-universalis
+    texlive-universalis \
+    texlive-appendix \
+    texlive-mathtools \
+    texlive-algorithm2e
 
 # leave in `/home` which we can map with the host
 WORKDIR /home
