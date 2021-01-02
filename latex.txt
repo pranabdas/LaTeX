@@ -1,0 +1,9 @@
+apt install -y wget
+tlmgr init-usertree
+tlmgr option repository ftp://tug.org/historic/systems/texlive/2019/tlnet-final
+tlmgr show <package-name> --verify-repo=none
+tlmgr install <package-name> --verify-repo=none
+tlmgr install universalis --verify-repo=none
+tlmgr install cmbright --verify-repo=none
+updmap-sys
+
