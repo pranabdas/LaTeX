@@ -1,0 +1,19 @@
+
+Hello {\firathin World}.
+
+Hello {\firaultralight World}.
+
+Hello {\firaextralight World}.
+
+Hello {\firalight World}.
+
+Hello {\firabook World}.
+
+Hello {\firamedium World}.
+
+Hello {\firasemibold World}.
+
+Hello {\firaextrabold World}.
+
+Hello {\firaheavy World}.
+
