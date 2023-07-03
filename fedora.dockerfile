@@ -1,4 +1,4 @@
-# Build command  : docker build -t latex .
+# Build command  : docker build -t latex -f fedora.dockerfile .
 # Run docker     : docker run -ti -v ${PWD}:/home latex bash
 
 FROM fedora
